@@ -1,5 +1,6 @@
 {
   "name": "my-app",
+  "homepage": "https://harshithgupta28.github.io/TEXTUTILS",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
